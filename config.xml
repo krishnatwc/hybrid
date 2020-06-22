@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.hybrid.myapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"   versionCode="60000">
-    <name>viagencia</name>
+    <name>Hybrid</name>
     <description> Find your hotels and flights.</description>
     <author email="hybrid@gmail.com" href="https://hybrid.net/"> viagencia</author>
     <content src="index.html" />
