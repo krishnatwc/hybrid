@@ -2,7 +2,7 @@
 <widget id="com.hybrid.myapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"   versionCode="60000">
     <name>Hybrid</name>
     <description> Find your hotels and flights.</description>
-    <author email="hybrid@gmail.com" href="https://hybrid.net/"> viagencia</author>
+    <author email="hybrid@gmail.com" href="https://hybrid.net/">Hybrid</author>
     <content src="index.html" />
 	<!--
 	<preference name="DisallowOverscroll" value="true" />
